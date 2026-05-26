@@ -6,9 +6,12 @@
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+developer+based+in+Dalian.++%F0%9F%91%8B)
+- 🔭 I'm currently working on [RAG]
+- 🌱 I'm currently learning **AI**
+- 📫 How to reach me: **1348234990@qq.com**
 
 <!-- ======================================= -->
+### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,ts)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=dotnet,py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,jenkins,linux,nginx,postgres,rabbitmq,redis,sqlite)](https://skillicons.dev)
