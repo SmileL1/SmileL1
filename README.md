@@ -62,7 +62,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🧰 [RAG](https://github.com/SmileL1/RAG) | Knowledge base toolkit powered by Retrieval-Augmented Generation | Python · AI · Vector DB |
-
+| 🧰 [Dietary Analysis](https://github.com/SmileL1/DietaryAnalysis) | An AI-powered WeChat mini-programme for smart dietary analysis that identifies food via photo recognition | JavaScript · AI · Wechat Db |
 <br/>
 
 ## 📈 GitHub Activity
