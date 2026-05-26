@@ -9,7 +9,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=A+developer+based+in+Dalian.++%F0%9F%91%8B)
 
 <!-- ======================================= -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,dotnet,git,github,jenkins,linux,nginx,postgres,py,rabbitmq,redis,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,jenkins,linux,nginx,postgres,rabbitmq,redis,sqlite)](https://skillicons.dev)
 <!-- ======================================= -->
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=SmileL1)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
