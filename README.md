@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **[RAG](https://github.com/SmileL1/RAG)** — a knowledge base toolkit
+- 🔭 I'm currently working on **[RAG](https://github.com/SmileL1/RAG)**,**[TestPlatform](https://github.com/SmileL1/TestPlatform)**— a knowledge base toolkit
 - 🌱 I'm currently learning **AI / LLMs / Vector Search**
 - 🧠 Interested in **RAG, Prompt Engineering, AI Agents**
 - 💬 Ask me about **Vue, .NET, Python, PostgreSQL**
@@ -33,6 +33,7 @@
 **Backend**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **DevOps & Infrastructure**
@@ -68,6 +69,12 @@
 🥗 **[Dietary Analysis](https://github.com/SmileL1/DietaryAnalysis)**
 > AI-powered WeChat mini-programme for smart dietary analysis via photo recognition
 `JavaScript` `AI` `WeChat`
+
+---
+
+🧪 **[TestPlatform](https://github.com/SmileL1/TestPlatform)**
+> AI-driven UI automation testing platform for WPF desktop apps — record-replay + LLM reasoning + AI screenshot verification
+`.NET` `Vue` `WPF` `AI`
 
 <br/>
 
